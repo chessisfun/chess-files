@@ -22,7 +22,7 @@ Available files:
     
     3. Classic Games (classic-games.pgn)
         -Description: Great games from chess history, unannotated.
-        -Recommended for: not necessarily recommended. Could be useful for someone > 1800 who
+        -Recommended for: not necessarily recommended. Could be useful for someone > 1600 who
             has read some strategy books. Could be useful for a teacher looking for games to use
             in lessons.
         -Notes: No comments or variations, just the games. Collected from various sources and
