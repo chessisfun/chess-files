@@ -17,8 +17,8 @@ Available files:
             a problem. Go through the book many times until the answers come quickly (< 10
             seconds per problem).
         -Notes: begins with simple mate-in-1 problems and gets progressively harder. Covers
-            standard tactical motifs (pin, fork, skewer, etc.) and checkmate patterns (anastasia,
-            arabian, etc.).
+            standard tactical motifs (pin, fork, skewer, etc.) and checkmate patterns (Anastasia,
+            Arabian, etc.).
     
     3. Classic Games (classic-games.pgn)
         -Description: Great games from chess history, unannotated.
