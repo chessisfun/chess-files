@@ -13,14 +13,17 @@ Available files:
     2. Tactics Course (Tactics-Course.pdf, tactics-course.pgn)
         -Description: instructive course of tactics exercises with solutions.
         -Recommended for: 1000-1800, though could be okay for others.
-        -Study approach: solve exercises and check solutions. Spend no more than 3 minutes solving a problem. Go
-            through the book many times until the answers come quickly (< 10 seconds per problem).
-        -Notes: begins with simple mate-in-1 problems and gets progressively harder. Covers standard tactical motifs
-            (pin, fork, skewer, etc.) and checkmate patterns (anastasia, arabian, etc.).
+        -Study approach: solve exercises and check solutions. Spend no more than 3 minutes solving
+            a problem. Go through the book many times until the answers come quickly (< 10
+            seconds per problem).
+        -Notes: begins with simple mate-in-1 problems and gets progressively harder. Covers
+            standard tactical motifs (pin, fork, skewer, etc.) and checkmate patterns (anastasia,
+            arabian, etc.).
     
     3. Classic Games (classic-games.pgn)
         -Description: Great games from chess history, unannotated.
-        -Recommended for: not necessarily recommended. Could be useful for someone > 1800 who has read some strategy
-            books. Could be useful for a teacher looking for games to use in lessons.
-        -Notes: No comments or variations, just the games. Collected from various sources and not thoroughly
-            checked for accuracy.
+        -Recommended for: not necessarily recommended. Could be useful for someone > 1800 who
+            has read some strategy books. Could be useful for a teacher looking for games to use
+            in lessons.
+        -Notes: No comments or variations, just the games. Collected from various sources and
+            not thoroughly checked for accuracy.
