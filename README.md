@@ -3,7 +3,7 @@ Here are some chess files that I have created. Feel free to use them for any pur
 
 Available files:
 
-    1. How to Play Chess (How-to-Play-Chess.pdf)
+    1. How to Play Chess (How-to-Play-Chess.pdf, How-to-Play-Chess-Exercises-Only.pdf)
         -Description: explanations of the rules of chess and many supporting exercises.
         -Recommended for: < 1200 or anyone learning the rules for the first time.
         -Study approach: read the explanations and solve the exercises.
