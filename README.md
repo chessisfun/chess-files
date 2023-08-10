@@ -3,16 +3,15 @@ Here are some chess files that I have created. Feel free to use them for any pur
 
 Available files:
 
-    1. How to Play Chess (How-to-Play-Chess.pdf, beginner-exercises.pgn)
+    1. How to Play Chess (How-to-Play-Chess.pdf)
         -Description: explanations of the rules of chess and many supporting exercises.
-        -Recommended for: unrated and < 1000.
+        -Recommended for: < 1200 or anyone learning the rules for the first time.
         -Study approach: read the explanations and solve the exercises.
             Go through the book many times until the exercises become easy.
-        -Notes: pgn only includes the exercises, not the instructional sections.
     
     2. Tactics Course (Tactics-Course.pdf, tactics-course.pgn)
         -Description: instructive course of tactics exercises with solutions.
-        -Recommended for: 1000-1800, though could be okay for others.
+        -Recommended for: 1200-1800 or < 1200 and comfortable with the exercises in How to Play Chess.
         -Study approach: solve exercises and check solutions. Spend no more than 3 minutes solving
             a problem. Go through the book many times until the answers come quickly (< 10
             seconds per problem).
