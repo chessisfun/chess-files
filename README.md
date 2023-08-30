@@ -10,6 +10,8 @@ Description of materials:
     1. How to Play Chess (How-to-Play-Chess.pdf, How-to-Play-Chess-Exercises-Only.pdf)
         This is a book with explanations of the rules of chess and many supporting exercises. It will
         be most useful for beginners, but the exercises could be useful for players rated below 1300.
+        The exercises-only version doesn't include the explanatory sections and could be useful if
+        you want to print worksheets for a class, for example.
     
     2. Tactics Course (Tactics-Course.pdf, tactics-course.pgn)
         This is a book of tactics exercises. It starts with simple mate-in-1 problems and gets harder
