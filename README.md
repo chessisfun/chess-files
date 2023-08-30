@@ -1,27 +1,22 @@
 # chess-files
-Here are some chess files that I have created. Feel free to use them for any purpose, just don't claim ownership. The files here are mostly in pdf or pgn format. The pdfs are better for reading while the pgns can be loaded into chess programs like Scid vs. PC or a Lichess study.
+Here are some chess files that I have created that I want to share.
 
-Available files:
+The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or a Lichess study.
+
+Feel free to use these files for any purpose, just don't claim ownership.
+
+Description of materials:
 
     1. How to Play Chess (How-to-Play-Chess.pdf, How-to-Play-Chess-Exercises-Only.pdf)
-        -Description: explanations of the rules of chess and many supporting exercises.
-        -Recommended for: < 1200 or anyone learning the rules for the first time.
-        -Study approach: read the explanations and solve the exercises.
-            Go through the book many times until the exercises become easy.
+        This is a book with explanations of the rules of chess and many supporting exercises. It will be most useful for beginners, but
+        the exercises could be useful for players rated below 1300.
     
     2. Tactics Course (Tactics-Course.pdf, tactics-course.pgn)
-        -Description: instructive course of tactics exercises with solutions.
-        -Recommended for: 1200-1800 or < 1200 and comfortable with the exercises in How to Play Chess.
-        -Study approach: solve exercises and check solutions. Spend no more than 3 minutes solving
-            a problem. Go through the book many times until the answers come quickly (< 10
-            seconds per problem).
-        -Notes: begins with simple mate-in-1 problems and gets progressively harder. Covers
-            standard tactical motifs (pin, fork, skewer, etc.) and checkmate patterns (Anastasia,
-            Arabian, etc.).
+        This is a book of tactics exercises. It starts with simple mate-in-1 problems and gets harder from there, covering all the major
+        tactical themes (pins, forks, skewers, etc.) and major checkmate patterns (Anastasia, Arabian, etc.).  This will be most useful
+        for players who are comfortable with the exercises in How to Play Chess or who are rated at least 1300.
     
     3. Classic Games (classic-games.pgn)
-        -Description: Great games from chess history, unannotated.
-        -Recommended for: Could be useful for a teacher looking for games to use
-            in lessons.
-        -Notes: No comments or variations, just the games. Collected from various sources and
-            not thoroughly checked for accuracy.
+        This is a pgn collection of great games from history. The games have no variations or comments. This isn't really an organized course
+        of study like some of the other materials and would be most useful for experienced players looking for a collection of important
+        historical games.
