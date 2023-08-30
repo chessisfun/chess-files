@@ -1,5 +1,5 @@
 # chess-files
-Here are some chess files that I have created that I want to share.
+Here are some chess files that I have created and want to share.
 
 The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or a Lichess study.
 
