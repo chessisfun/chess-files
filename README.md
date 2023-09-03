@@ -1,11 +1,11 @@
 # chess-files
-Here are some chess files that I have created and want to share.
+Here are some chess files that I have created and want to share. Feel free to use these files for any purpose, just don't claim ownership.
 
-The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or a Lichess study.
+**About me**: I have played and taught chess for many years. I am rated USCF 20xx and Lichess Classical 22xx. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players.
 
-Feel free to use these files for any purpose, just don't claim ownership.
+**About the materials**: The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or a Lichess study.
 
-Description of materials:
+**Description of individual materials**:
 
     1. How to Play Chess (How-to-Play-Chess.pdf, How-to-Play-Chess-Exercises-Only.pdf)
         This is a book with explanations of the rules of chess and many supporting exercises. It will
