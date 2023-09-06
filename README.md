@@ -1,7 +1,7 @@
 # chess-files
 Here are some chess files that I have created and want to share. Feel free to use these files for any purpose, just don't claim ownership.
 
-**About me**: I have played and taught chess for many years. I am rated USCF 20xx and Lichess Classical 22xx. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players. You can reach me at chessisfun2003@proton.me but be warned that I check this infrequently.
+**About me**: I have played and taught chess for many years. I am rated USCF 20xx and Lichess Classical 22xx. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players. You can reach me at chessisfun2003@proton.me with any questions or comments.
 
 **About the materials**: The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or a Lichess study.
 
