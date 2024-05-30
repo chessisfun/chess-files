@@ -1,22 +1,19 @@
 # chess-files
 Here are some chess files that I have created and want to share. Feel free to use these files for any purpose, just don't claim ownership. Also see my Lichess studies at https://lichess.org/study/by/TeachingMaterials
 
-**About the materials**: The **pdf** files are like traditional books and are best for reading directly. These are probably the ones you want if you aren't sure. The **pgn** files aren't meant to be read, but can be loaded in a chess program like SCID or Chessbase.
-
 **Description of individual materials**:
 
-    1. How to Play Chess (How-to-Play-Chess.pdf, How-to-Play-Chess-Exercises-Only.pdf)
+    1. Introduction to Chess Rules
         This is a book with explanations of the rules of chess and many supporting exercises. It
         will be most useful for complete beginners, but the exercises could be useful for
-        players rated below 1000. The exercises-only version doesn't include the explanatory
-        sections and could be useful if you want to print worksheets for a class, for example.
+        other inexperienced players.
     
-    2. Introduction to Tactics (Tactics-Course.pdf, tactics-course.pgn)
+    2. Introduction to Chess Tactics
         This is a book of tactics exercises. It starts with simple mate-in-1 problems and gets
         harder from there, covering all the major tactical themes (pins, forks, skewers, etc.)
         and major checkmate patterns (Anastasia, Arabian, etc.).
 
-    3. Introduction to Strategy (Introduction-to-Strategy-First-Draft.pdf)
+    3. Introduction to Chess Strategy
         This book provides a brief overview of the most important strategic ideas. It consists
         of relatively simple examples, discussed more with words than with variations.
 
