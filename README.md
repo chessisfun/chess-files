@@ -17,4 +17,4 @@ Here are some chess files that I have created and want to share. Feel free to us
         This book provides a brief overview of the most important strategic ideas. It consists
         of relatively simple examples, discussed more with words than with variations.
 
-**About me**: I have played and taught chess for many years. I am rated USCF 20xx and Lichess Classical 22xx. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players. You can reach me at chessisfun2003@proton.me with any questions or comments.
+**About me**: I have played and taught chess for many years. I am rated ~2000 USCF. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players. You can reach me at chessisfun2003@proton.me with any questions or comments.
