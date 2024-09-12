@@ -4,12 +4,12 @@ Here are some chess files that I have created and want to share. Feel free to us
 **Description of individual materials**:
 
     1. Introduction to Chess Rules
-        Explanations of the rules of chess with many supporting exercises. Mostly for
+        Explains the rules of chess with many supporting exercises. Mostly for
         beginners, but the exercises could be useful for other inexperienced players.
     
     2. Introduction to Chess Tactics
         Collection of tactics exercises. Begins with simple mate-in-1 problems and gets
-        harder from there, covering all the major tactical themes (pins, forks, etc.)
+        harder from there. Covers all the major tactical themes (pins, forks, etc.)
         and major checkmate patterns (Anastasia, Arabian, etc.).
 
     3. Introduction to Chess Strategy
