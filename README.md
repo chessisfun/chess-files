@@ -1,5 +1,5 @@
 # chess-files
-Here are some chess files that I have created and want to share. Feel free to use these files for any purpose, just don't claim ownership. Also see my Lichess studies at https://lichess.org/study/by/TeachingMaterials
+Here are some chess files that I have created and want to share. Also see my Lichess studies at https://lichess.org/study/by/TeachingMaterials
 
 **Description of individual materials**:
 
