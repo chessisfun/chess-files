@@ -18,9 +18,12 @@ Here are some chess files that I have created and want to share. Also see my Lic
     4. Introduction to Chess Endgames (first draft)
         Explains the most important theoretical endgames with many exercises.
 
-    5. Introduction to Chess Tactics
-        Collection of tactics exercises. Begins with simple mate-in-1 problems and gets
-        harder from there. Covers all the major tactical themes (pins, forks, etc.)
-        and major checkmate patterns (Anastasia, Arabian, etc.).
+    5. Simple Checkmate Puzzles
+        Collection of simple checkmate puzzles. Includes both one-move and two-move
+        checkmates.
+
+    6. Simple Tactics Puzzles
+        Collection of tactical puzzles covering the most important tactical motifs
+        (skewers, pins, etc.).
             
 **About me**: I have played and taught chess for many years. I am rated ~2000 USCF. In teaching chess I have worked with both adults and children in both group and individual settings. I have worked extensively with beginners and lower rated players. You can reach me at chessisfun2003@proton.me with any questions or comments.
